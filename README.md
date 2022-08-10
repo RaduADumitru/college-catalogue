@@ -23,4 +23,5 @@ Data for each of these is imported on startup through their respective CSV files
 
 During execution, actions taken will be recorded in `data/audit.csv` along with timestamps.
 ## Notes
-Project built for my Advanced Programming Elements (Java) Course in college.
+* Implementation is further described in the attached documentation PDF (in Romanian)
+* Project built for my Advanced Programming Elements (Java) Course in college
